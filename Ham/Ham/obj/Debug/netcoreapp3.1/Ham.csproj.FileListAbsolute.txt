@@ -1,0 +1,13 @@
+C:\Users\NN\Desktop\khoapla\BaiTap\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.exe
+C:\Users\NN\Desktop\khoapla\BaiTap\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.deps.json
+C:\Users\NN\Desktop\khoapla\BaiTap\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.runtimeconfig.json
+C:\Users\NN\Desktop\khoapla\BaiTap\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.runtimeconfig.dev.json
+C:\Users\NN\Desktop\khoapla\BaiTap\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.dll
+C:\Users\NN\Desktop\khoapla\BaiTap\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.pdb
+C:\Users\NN\Desktop\khoapla\BaiTap\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\khoapla\BaiTap\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\khoapla\BaiTap\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\khoapla\BaiTap\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.AssemblyInfo.cs
+C:\Users\NN\Desktop\khoapla\BaiTap\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.dll
+C:\Users\NN\Desktop\khoapla\BaiTap\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.pdb
+C:\Users\NN\Desktop\khoapla\BaiTap\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.genruntimeconfig.cache
