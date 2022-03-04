@@ -1,0 +1,13 @@
+C:\Users\NN\Desktop\khoapla\buoi 3\SapXepMang\obj\Debug\netcoreapp3.1\SapXepMang.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\khoapla\buoi 3\SapXepMang\obj\Debug\netcoreapp3.1\SapXepMang.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\khoapla\buoi 3\SapXepMang\obj\Debug\netcoreapp3.1\SapXepMang.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\khoapla\buoi 3\SapXepMang\obj\Debug\netcoreapp3.1\SapXepMang.AssemblyInfo.cs
+C:\Users\NN\Desktop\khoapla\buoi 3\SapXepMang\bin\Debug\netcoreapp3.1\SapXepMang.exe
+C:\Users\NN\Desktop\khoapla\buoi 3\SapXepMang\bin\Debug\netcoreapp3.1\SapXepMang.deps.json
+C:\Users\NN\Desktop\khoapla\buoi 3\SapXepMang\bin\Debug\netcoreapp3.1\SapXepMang.runtimeconfig.json
+C:\Users\NN\Desktop\khoapla\buoi 3\SapXepMang\bin\Debug\netcoreapp3.1\SapXepMang.runtimeconfig.dev.json
+C:\Users\NN\Desktop\khoapla\buoi 3\SapXepMang\bin\Debug\netcoreapp3.1\SapXepMang.dll
+C:\Users\NN\Desktop\khoapla\buoi 3\SapXepMang\bin\Debug\netcoreapp3.1\SapXepMang.pdb
+C:\Users\NN\Desktop\khoapla\buoi 3\SapXepMang\obj\Debug\netcoreapp3.1\SapXepMang.dll
+C:\Users\NN\Desktop\khoapla\buoi 3\SapXepMang\obj\Debug\netcoreapp3.1\SapXepMang.pdb
+C:\Users\NN\Desktop\khoapla\buoi 3\SapXepMang\obj\Debug\netcoreapp3.1\SapXepMang.genruntimeconfig.cache

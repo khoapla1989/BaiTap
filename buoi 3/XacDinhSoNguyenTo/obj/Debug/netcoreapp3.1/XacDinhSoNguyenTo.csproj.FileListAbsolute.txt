@@ -1,0 +1,13 @@
+C:\Users\NN\Desktop\khoapla\buoi 3\XacDinhSoNguyenTo\obj\Debug\netcoreapp3.1\XacDinhSoNguyenTo.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\khoapla\buoi 3\XacDinhSoNguyenTo\obj\Debug\netcoreapp3.1\XacDinhSoNguyenTo.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\khoapla\buoi 3\XacDinhSoNguyenTo\obj\Debug\netcoreapp3.1\XacDinhSoNguyenTo.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\khoapla\buoi 3\XacDinhSoNguyenTo\obj\Debug\netcoreapp3.1\XacDinhSoNguyenTo.AssemblyInfo.cs
+C:\Users\NN\Desktop\khoapla\buoi 3\XacDinhSoNguyenTo\bin\Debug\netcoreapp3.1\XacDinhSoNguyenTo.exe
+C:\Users\NN\Desktop\khoapla\buoi 3\XacDinhSoNguyenTo\bin\Debug\netcoreapp3.1\XacDinhSoNguyenTo.deps.json
+C:\Users\NN\Desktop\khoapla\buoi 3\XacDinhSoNguyenTo\bin\Debug\netcoreapp3.1\XacDinhSoNguyenTo.runtimeconfig.json
+C:\Users\NN\Desktop\khoapla\buoi 3\XacDinhSoNguyenTo\bin\Debug\netcoreapp3.1\XacDinhSoNguyenTo.runtimeconfig.dev.json
+C:\Users\NN\Desktop\khoapla\buoi 3\XacDinhSoNguyenTo\bin\Debug\netcoreapp3.1\XacDinhSoNguyenTo.dll
+C:\Users\NN\Desktop\khoapla\buoi 3\XacDinhSoNguyenTo\bin\Debug\netcoreapp3.1\XacDinhSoNguyenTo.pdb
+C:\Users\NN\Desktop\khoapla\buoi 3\XacDinhSoNguyenTo\obj\Debug\netcoreapp3.1\XacDinhSoNguyenTo.dll
+C:\Users\NN\Desktop\khoapla\buoi 3\XacDinhSoNguyenTo\obj\Debug\netcoreapp3.1\XacDinhSoNguyenTo.pdb
+C:\Users\NN\Desktop\khoapla\buoi 3\XacDinhSoNguyenTo\obj\Debug\netcoreapp3.1\XacDinhSoNguyenTo.genruntimeconfig.cache

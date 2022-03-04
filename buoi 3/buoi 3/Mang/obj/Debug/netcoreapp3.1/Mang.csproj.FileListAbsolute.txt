@@ -1,0 +1,12 @@
+C:\Users\NN\Desktop\khoapla\buoi 3\Mang\bin\Debug\netcoreapp3.1\Mang.exe
+C:\Users\NN\Desktop\khoapla\buoi 3\Mang\bin\Debug\netcoreapp3.1\Mang.deps.json
+C:\Users\NN\Desktop\khoapla\buoi 3\Mang\bin\Debug\netcoreapp3.1\Mang.runtimeconfig.json
+C:\Users\NN\Desktop\khoapla\buoi 3\Mang\bin\Debug\netcoreapp3.1\Mang.runtimeconfig.dev.json
+C:\Users\NN\Desktop\khoapla\buoi 3\Mang\bin\Debug\netcoreapp3.1\Mang.dll
+C:\Users\NN\Desktop\khoapla\buoi 3\Mang\bin\Debug\netcoreapp3.1\Mang.pdb
+C:\Users\NN\Desktop\khoapla\buoi 3\Mang\obj\Debug\netcoreapp3.1\Mang.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\khoapla\buoi 3\Mang\obj\Debug\netcoreapp3.1\Mang.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\khoapla\buoi 3\Mang\obj\Debug\netcoreapp3.1\Mang.AssemblyInfo.cs
+C:\Users\NN\Desktop\khoapla\buoi 3\Mang\obj\Debug\netcoreapp3.1\Mang.dll
+C:\Users\NN\Desktop\khoapla\buoi 3\Mang\obj\Debug\netcoreapp3.1\Mang.pdb
+C:\Users\NN\Desktop\khoapla\buoi 3\Mang\obj\Debug\netcoreapp3.1\Mang.genruntimeconfig.cache
