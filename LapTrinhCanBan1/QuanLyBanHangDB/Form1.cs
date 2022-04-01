@@ -137,8 +137,15 @@ namespace QuanLyBanHangDB
         {
             Form f = new FormThemDanhMuc();
             if (f.ShowDialog() == DialogResult.OK) {
+                _db = new DataBanHangDataContext();
                 dataGridView1.DataSource = _db.Categories.ToList();
             }
+        }
+
+        private void sanPhamToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form f = new FormProduct();
+            f.ShowDialog();
         }
     }
 }

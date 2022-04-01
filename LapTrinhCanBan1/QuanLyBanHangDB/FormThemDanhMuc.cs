@@ -71,5 +71,17 @@ namespace QuanLyBanHangDB
             txtMoTa.Text = Cat.Description.ToString();
            
         }
+
+        private void btnSua_Click(object sender, EventArgs e)
+        {
+            Category catDb =
+              _db.Categories.FirstOrDefault(cat => cat.CategoryID == int.Parse(txtMa.Text));
+
+            catDb.CategoryName = txtName.Text;
+            catDb.CategoryID = int.Parse(txtMa.Text);
+            catDb.Description = txtMoTa.Text;
+            _db.SubmitChanges();
+            DialogResult = DialogResult.OK;
+        }
     }
 }
